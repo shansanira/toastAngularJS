@@ -1,0 +1,24 @@
+{
+  "name": "toast-angularjs",
+  "version": "1.0.0",
+  "description": "angular js version of toastUi image editor",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shansanira/toastAngularJS.git"
+  },
+  "keywords": [
+    "angularjs",
+    "image-editor",
+    "tui-image-editor"
+  ],
+  "author": "Sanira Nimantha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shansanira/toastAngularJS/issues"
+  },
+  "homepage": "https://github.com/shansanira/toastAngularJS#readme"
+}
